@@ -7,9 +7,9 @@ Features:
 - Clear terminal output with emoji-based visualization
 - Reads board from file
 
-Input Format:
-The input board (`board.txt`) is a text file:
-- With 0s for empty/navigable cells and 1s for obstacles.<br/>
+Input Format:<br/>
+- The input board (`board.txt`) is a text file.
+  - (With 0s for empty/navigable cells and 1s for obstacles):<br/><br/>
 0,1,0,0,0,0<br/>
 0,1,0,0,0,0<br/>
 0,1,0,0,0,0<br/>
